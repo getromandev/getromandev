@@ -25,3 +25,11 @@ skill toward the concept and creation of sophisticated digital products.
 I am passionate about learning from others and always interested in advancing
 my software architecture skills and cloud computing strategies. I'd love for
 my next role to be at a company that values mentorship and diversity.
+
+---
+ 
+### What do I do?
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<p>
