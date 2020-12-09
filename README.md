@@ -76,4 +76,4 @@ my next role to be at a company that values mentorship and diversity.
 
 ### Github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=getromandev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=getromandev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
