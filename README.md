@@ -65,6 +65,12 @@ my next role to be at a company that values mentorship and diversity.
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+---
+
+### Currently working on
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=getromandev&repo=BBG_socialMediaApp)](https://github.com/getromandev/BBG_socialMediaApp)
  
 ---
 
