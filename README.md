@@ -2,7 +2,7 @@
 
 ### Hi there welcome to my GitHub page 👋
 
-My name is Heriberto Roman. I am a self-taught developer with six years of
+My name is Heriberto Roman. I am a self-taught developer with seven years of
 engineering experience and four years of experience as a technical instructor.
 I worked for startups in the techEd, higherEd, and the non-profit sector. 
 As a Technical Instructor, I leveraged computational thinking and problem-solving skills to create a new
