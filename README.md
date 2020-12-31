@@ -55,7 +55,7 @@ my next role to be at a company that values mentorship and diversity.
   <a target="_blank" href="https://www.youtube.com/channel/UCWLLLB21WpFoNklfx1et25A">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
-  <a target="_blank" href="https://twitter.com/getroman_dev">
+  <a target="_blank" href="https://twitter.com/builtByGetroman">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
   <a target="_blank" href="https://www.instagram.com/built_by_getroman/">
