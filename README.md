@@ -2,12 +2,12 @@
 
 ### Hi there welcome to my GitHub page 👋
 
-My name is Heriberto Roman. I am a self-taught developer with seven years of
-engineering experience and four years of experience as a technical instructor.
-I worked for startups in the techEd, higherEd, and the non-profit sector. 
-As a Technical Instructor, I leveraged computational thinking and problem-solving skills to create a new
-pedagogy {D.A.B} and MVP web app called cThink, which helps code newbies learn
-core programming concepts through analogies.
+My name is Heriberto Roman. I am a self-taught lifelong learner with
+experience as a Software Engineer and Technical Instructor. I worked for
+startups in the techEd, higherEd, and the non-profit sector. As a Technical
+Instructor, I leveraged computational thinking and problem-solving skills to
+create a new pedagogy {D.A.B} and MVP web app called cThink, which helps code
+newbies learn core programming concepts through analogies.
 
 As a Software Engineer with a strong design background, I take a holistic
 approach in the consideration of every new project. I believe that great
