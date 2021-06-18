@@ -74,6 +74,7 @@ my next role to be at a company that values mentorship and diversity.
 ### Currently working on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=getromandev&repo=codingChallenges)](https://github.com/getromandev/codingChallenges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=getromandev&repo=bbgReactBlog)](https://github.com/getromandev/bbgReactBlog)
 ---
 
 ### Github stats
